@@ -6,7 +6,7 @@ ButtonOffStateValue       0
 ButtonStyle               0
 ________________________________________
 FullTurtle                100
-ButtonOnStateValue        30
+ButtonOnStateValue        15
 ButtonOffStateValue       100
 ButtonStyle               1
 ________________________________________
