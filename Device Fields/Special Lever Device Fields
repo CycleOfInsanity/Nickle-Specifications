@@ -33,8 +33,8 @@ LeverCenteringSpeed   10
 LeverBindsMoveSpeed   10
 ________________________________________
 FCURotationalYaw      0
-LeverMinOutput        -100
-LeverMaxOutput        100
+LeverMinOutput        -30
+LeverMaxOutput        30
 LeverCenterOutput     0
 LeverCenterDeadZone   0
 LeverCenteringSpeed   10
@@ -49,8 +49,8 @@ LeverCenteringSpeed   10
 LeverBindsMoveSpeed   10
 ________________________________________
 FCURotationalPitch    0
-LeverMinOutput        0
-LeverMaxOutput        100
+LeverMinOutput        -30
+LeverMaxOutput        30
 LeverCenterOutput     0
 LeverCenterDeadZone   0
 LeverCenteringSpeed   10
