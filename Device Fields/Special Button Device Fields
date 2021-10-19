@@ -1,0 +1,27 @@
+Renamed Buttons
+________________________________________
+Transponder               0
+ButtonOnStateValue        1
+ButtonOffStateValue       0
+ButtonStyle               0
+________________________________________
+FullTurtle                100
+ButtonOnStateValue        30
+ButtonOffStateValue       100
+ButtonStyle               1
+________________________________________
+Mining                    0
+ButtonOnStateValue        1
+ButtonOffStateValue       0
+ButtonStyle               1
+________________________________________
+Collector                 0
+ButtonOnStateValue        1
+ButtonOffStateValue       0
+ButtonStyle               1
+________________________________________
+Cruise                    10
+ButtonOnStateValue        0
+ButtonOffStateValue       10
+ButtonStyle               1
+________________________________________
