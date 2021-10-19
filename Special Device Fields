@@ -1,0 +1,74 @@
+Renamed Levers
+________________________________________
+Manual                0
+LeverMinOutput        0
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   0
+LeverBindsMoveSpeed   4
+________________________________________
+FCUForward            0
+LeverMinOutput        0
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCUForward            0
+LeverMinOutput        0
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+Cruise                10
+LeverBindsMoveSpeed   10
+________________________________________
+FCUBackward           0
+LeverMinOutput        0
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCURotationalYaw      0
+LeverMinOutput        -100
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCURotationalRoll     0
+LeverMinOutput        -100
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCURotationalPitch    0
+LeverMinOutput        0
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCUUpDown             0
+LeverMinOutput        -100
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
+FCURightLeft          0
+LeverMinOutput        -100
+LeverMaxOutput        100
+LeverCenterOutput     0
+LeverCenterDeadZone   0
+LeverCenteringSpeed   10
+LeverBindsMoveSpeed   10
+________________________________________
