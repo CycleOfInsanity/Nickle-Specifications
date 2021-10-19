@@ -23,3 +23,20 @@ ______________________
 
 --4 Medium Propellant Tanks
 
+
+
+Spare Parts Include
+______________________
+--8 Levers
+
+--12 Chip Sockets
+
+--4 Basic Yolol Chips
+
+--20 Text Panel
+
+--5 Memory Chips
+
+--Main Flight Computer
+
+--Flight Control Unit
