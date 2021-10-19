@@ -1,0 +1,97 @@
+Renamed text Panels
+________________________________________
+Propellant                0
+PanelMinValue             0
+PanelMaxValue             4,000,000
+PanelVariableResolution   .001
+________________________________________
+Battery                   0
+PanelMinValue             0
+PanelMaxValue             10000
+PanelVariableResolution   .001
+________________________________________
+Fuel                      0
+PanelMinValue             0
+PanelMaxValue             3,000,000
+PanelVariableResolution   .001
+________________________________________
+GeneratorUnitRateLimit    0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+GeneratorUnitRate         0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Manual                    0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+DrainPerSecond            0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+DrainPerSecond            0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+EnergyPerSecond           0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+RadiationRate             0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+StoredRadiatorCoolant     0
+PanelMinValue             0
+PanelMaxValue             2000
+PanelVariableResolution   .001
+________________________________________
+ThrusterEff               0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Forward                   0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Backward                  0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+RightLeft                 0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+UpDown                    0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Yaw                       0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Pitch                     0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
+Roll                      0
+PanelMinValue             0
+PanelMaxValue             100
+PanelVariableResolution   .001
+________________________________________
