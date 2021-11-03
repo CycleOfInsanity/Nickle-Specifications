@@ -25,3 +25,8 @@ ButtonOnStateValue        0
 ButtonOffStateValue       10
 ButtonStyle               1
 ________________________________________
+Guides                    0
+ButtonOnStateValue        1
+ButtonOffStateValue       0
+ButtonStyle               1
+________________________________________
